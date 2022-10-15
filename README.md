@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haitao.
+- 👋 Hi, I’m @Haitao. You can also call me Hatsukun.
 - 👀 I’m interested in computer graphics/visual computing/machine learning...
 - 🌱 I’m currently doing master programme in Computational Science and Engineering at ETH, Zurich.
 
